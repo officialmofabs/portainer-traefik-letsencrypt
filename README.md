@@ -12,7 +12,7 @@ This repository will help you set up Portainer served by Traefik over HTTPS (Let
 
 Simply `git clone` the repository into your server's directory.
 
-`git clone https://github.com/AxelPina/portainer-traefik-letsencrypt.git`
+`git clone https://github.com/officialmofabs/portainer-traefik-letsencrypt.git`
 
   Apply permissions to be able to edit the `.env`.
 
